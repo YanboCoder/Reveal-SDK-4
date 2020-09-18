@@ -5,7 +5,7 @@
 
 # Reveal
 
-[工具下载地址](http://download.csdn.net/detail/tx874828503/9831082)
+[工具下载地址](https://github.com/MistyRain5/Reveal-SDK-4/raw/master/Reveal48796%20Cr%20.dmg)
 
 
 # Installation
